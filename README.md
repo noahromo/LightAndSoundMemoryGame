@@ -39,10 +39,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 Example of start, stop, and game buttons:
+
 ![](https://cdn.glitch.global/2a09befe-459a-4c1c-b16e-eb43fb503908/partOne.gif?v=1650263797709)
+
 Example of user losing game:
+
 ![](https://cdn.glitch.global/2a09befe-459a-4c1c-b16e-eb43fb503908/partTwo.gif?v=1650263802331)
+
 Example of user winning game:
+
 ![](https://cdn.glitch.global/2a09befe-459a-4c1c-b16e-eb43fb503908/partThree.gif?v=1650263808124)
 
 ## Reflection Questions
