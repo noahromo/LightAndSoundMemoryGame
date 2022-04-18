@@ -86,11 +86,12 @@ function guess(btn){
       }
     }
     else{
-      //Incorrect guess, user has lost
+      //Sequence is not done
       guessCounter++;
     }
   }
   else{
+    //Incorrect guess, user has lost
     loseGame();
   }
 }
