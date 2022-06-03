@@ -1,4 +1,4 @@
-# *Memory Game*
+# **Memory Game**
 
 **Memory Game** is a Light & Sound Memory game to apply for Salesforce's Futureforce Tech Launchpad Program. 
 
